@@ -16,3 +16,9 @@ Phishing attacks are a prevalent and persistent threat in the cybersecurity land
 In conclusion, the proposed phishing detection website utilizing deep learning techniques holds significant potential in addressing the persistent threat of phishing attacks. The use of deep learning models allows for the analysis of web pages based on learned patterns and features, enabling the system to effectively identify potential phishing indicators in real-time. By providing timely and accurate detection results, the system can empower users to make informed decisions when encountering suspicious URLs and protect their sensitive information from being compromised.
 
 However, it is important to acknowledge that no security system is perfect, and the proposed website may have limitations, such as false positives or false negatives. Phishing attacks continue to evolve in sophistication, and attackers may employ new techniques that could potentially bypass the system's detection capabilities. Therefore, continuous research and improvement are necessary to enhance the system's accuracy and effectiveness in mitigating phishing attacks.
+
+
+## Contributors
+
+Samyukta Kurikala (https://github.com/Samyukta-14)
+Tanmay Sharma (https://github.com/SirChronicle)
