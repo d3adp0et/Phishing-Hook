@@ -2,17 +2,6 @@
 
 This document provides information about the datasets used in the phishing detection project.
 
-## Directory Structure
-data/
-├── raw/                      # Original datasets
-│   ├── urlset.csv    # Raw phishing URLs
-│   └── verified_online.csv # Raw legitimate URLs
-│
-└── processed/                # Generated/processed datasets
-├── legitimate_features.csv        # Extracted legitimate features
-├── phishing_features.csv          # Extracted phishing features
-└── finaldata.csv           # Combined dataset
-
 ## Raw Data Files
 
 ### urlset.csv
